@@ -1,0 +1,22 @@
+{
+  "name": "egg-mongojs",
+  "version": "1.0.1",
+  "description": "egg-mongojs",
+  "main": "app.js",
+  "eggPlugin": {
+    "name": "egg-mongojs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "egg-mongojs",
+    "mongodb",
+    "mongo"
+  ],
+  "author": "bool",
+  "license": "ISC",
+  "dependencies": {
+    "mongojs": "^2.6.0"
+  }
+}
