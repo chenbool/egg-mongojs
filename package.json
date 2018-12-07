@@ -4,7 +4,7 @@
   "description": "egg-mongojs",
   "main": "app.js",
   "eggPlugin": {
-    "name": "egg-mongojs"
+    "name": "mongojs"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
