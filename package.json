@@ -1,6 +1,6 @@
 {
   "name": "egg-mongojs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "egg-mongojs",
   "main": "app.js",
   "eggPlugin": {
@@ -14,6 +14,14 @@
     "mongodb",
     "mongo"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenbool/egg-mongojs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chenbool/egg-mongojs/issues"
+  },
+  "homepage": "https://github.com/chenbool/egg-mongojs/blob/master/README.md",
   "author": "bool",
   "license": "ISC",
   "dependencies": {
